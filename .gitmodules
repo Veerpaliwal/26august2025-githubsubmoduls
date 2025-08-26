@@ -1,0 +1,6 @@
+[submodule "26august2025-backend"]
+	path = 26august2025-backend
+	url = https://github.com/Veerpaliwal/26august2025-backend.git
+[submodule "26august2025-frontend"]
+	path = 26august2025-frontend
+	url = https://github.com/Veerpaliwal/26august2025-frontend.git
